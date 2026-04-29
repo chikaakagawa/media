@@ -31,4 +31,5 @@ python3 ~/home/02_AI_Education/media/scripts/to_notion.py \
   ~/home/02_AI_Education/media/content/articles/YYYYMMDD_[atom_id].md \
   --status 下書き --category 軸B
 ```
-完了後、X投稿テキスト3案（140字以内・ハッシュタグ2個）を生成して出力する。
+完了後、`/post-social` スキルに従い X・Threads の投稿文を各1案生成して出力する。
+ターゲットの痛みに刺さる最良案のみ。
