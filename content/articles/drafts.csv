@@ -1,8 +1,0 @@
-id,atom_id,type,title,status,publish_order,planned_date,published_date,char_count,thumbnail_file,companion_files,note_url,memo
-20260418_a20260418-01,a20260418-01,article,Adobeが「作る人」から「指揮する人」へ舵を切った日,ready,,2026-04-18,,2293,20260418_a20260418-01_thumbnail.md,,,Adobe Firefly Creative Agent
-20260419_a20260418-02,a20260418-02,article,Canva AI 2.0 会話と自動化がデザイナーの仕事を変える,ready,1,2026-04-19,,2994,,,,Canva AI 2.0 発表(4/16)
-20260419_a20260418-03,a20260418-03,article,AIに創造性は奪われない 800人実験が示すデザイナーの立ち位置,ready,2,2026-04-20,,2110,20260419_a20260418-03_thumbnail.md,,,スウォンジー大学800人研究
-20260419_akagawa_manifesto,manifesto,manifesto,赤川知佳として、noteを始めます ― AIに振り回されないデザイナーの輪郭を描きたい,ready,3,2026-04-21,,1954,,,,個人名中心の方向性宣言
-20260419_ciro_manifesto,manifesto,manifesto,ciroを始めます AIに振り回されないデザイナーを増やしたい,archived,,,,1832,,,,旧版(削除希望だが権限なし)
-20260420_a20260420-01,a20260420-01,article,Claude Design登場、デザイナーの最初の1分が変わる,ready,,2026-04-20,,2099,20260420_a20260420-01_thumbnail.md,20260420_a20260420-01_diagram.md;20260420_a20260420-01_factcheck.md,,Claude Design
-20260423_a20260423-01,a20260423-01,article,ChatGPT Images 2.0、日本語テキストが描けた日,ready,,2026-04-23,,2181,20260423_a20260423-01_thumbnail.md,20260423_a20260423-01_diagram.md;20260423_a20260423-01_factcheck.md,,ChatGPT Images 2.0 日本語テキスト描画

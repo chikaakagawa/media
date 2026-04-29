@@ -22,7 +22,9 @@ pipeline.csv の priority=1 のネタから note 初稿を生成する。
 - タイトル32字以内
 
 ## 保存先
-`~/home/02_AI_Education/media/content/articles/YYYYMMDD_[atom_id].md`
+- 記事本文: `content/articles/YYYYMMDD_[atom_id].md`
+- X・Threads投稿文: `content/social/YYYYMMDD_[atom_id]_x.md`
+- diagram・thumbnail・factcheck: `content/assets/YYYYMMDD_[atom_id]_[type].md`
 
 ## 保存後の自動処理
 以下を必ず実行する：
