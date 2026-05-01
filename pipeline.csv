@@ -1,7 +1,7 @@
 atom_id,route,priority,planned_date,status
 i20260427-01,x,1,2026-04-29,published
 a20260420-05,x,1,2026-04-30,published
-a20260428-01,note+x+threads,1,2026-05-01,queued
+a20260428-01,note+x+threads,1,2026-05-01,published
 a20260420-04,note+x+threads,1,2026-05-02,queued
 a20260418-03,note+x+threads,2,2026-05-03,queued
 a20260429-01,note+x+threads,1,2026-05-04,queued
