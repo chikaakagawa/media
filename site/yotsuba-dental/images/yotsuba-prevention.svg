@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8fd0a4"/>
+      <stop offset="100%" stop-color="#4fae72"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="240" fill="url(#g)"/>
+  <path transform="translate(160.0,110.0) scale(1.0434782608695652)" d="M-18,-22 C-30,-24 -34,-6 -28,10 C-24,24 -18,30 -12,30 C-8,30 -6,18 0,18 C6,18 8,30 12,30 C18,30 24,24 28,10 C34,-6 30,-24 18,-22 C10,-26 -10,-26 -18,-22 Z" fill="#ffffff" opacity="0.9"/>
+  <text x="160.0" y="226" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#ffffff" opacity="0.85" font-weight="700">prevention</text>
+</svg>
